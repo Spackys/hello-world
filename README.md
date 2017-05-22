@@ -1,3 +1,4 @@
 # hello-world
-this is a demo project
+this is a demo project.
+
 I'm Spacky
